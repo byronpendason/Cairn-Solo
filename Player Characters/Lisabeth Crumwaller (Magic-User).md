@@ -2,7 +2,7 @@
 share: true
 ---
 
-A 23 year old oddball magic-user. Been a herbalist. Rugged physique, tanned hair, braided skin, and elongated face. Has booming speech, wears livery clothing. Gregarious, but vain. Has been blackmailed in the past.
+A 23 year old oddball magic-user. Been a herbalist. Rugged physique, tanned hair, braided skin, and elongated face. Has booming speech, wears livery clothing. Gregarious, but vain. Has been blackmailed in the past. *Female, half-elf.*
 
 STR 9/9 | DEX 12/12 | WIL 17/17
 HP: 2/2
