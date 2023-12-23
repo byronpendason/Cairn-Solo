@@ -103,7 +103,10 @@ share: true
 1008 blank
 1009 blank
 1010 blank
-```
-**Scale:** *1 hex = 12 miles*
 
-[[./Cloudedplane|Cloudedplane]] (0605)
+0405-0406-0307 river
+0605-0406 trail
+```
+**Scale:** *1 hex = 6 miles*
+
+[Cloudedplane](./Cloudedplane.md) (0605)
