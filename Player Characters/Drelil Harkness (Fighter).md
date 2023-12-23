@@ -12,7 +12,7 @@ Gold: 5 gp
 1. Brigandine Armor (1, bulky)
 2. " " "
 3. Helmet (+1)
-4. Sword, Mace or Axe
+4. Axe (d8)
 5. Pulley
 6. Tongs, Soap
 7. Rations x 3
